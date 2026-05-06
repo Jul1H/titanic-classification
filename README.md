@@ -76,10 +76,5 @@ titanic-classification/
 
 ##  Author
 
-**[Juli Harto]**
-- 📧 Email: [Juliharto10@gmail.com]
-- 🔗 LinkedIn: [linkedin.com/in/username-kamu]
-- 💻 GitHub: [@username-kamu]
 
----
 
